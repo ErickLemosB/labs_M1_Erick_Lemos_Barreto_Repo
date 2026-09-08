@@ -1,0 +1,11 @@
+pyproject.toml
+src/pdi_lab/__init__.py
+src/pdi_lab/__main__.py
+src/pdi_lab/imagem.py
+src/pdi_lab/operacoes.py
+src/pdi_lab.egg-info/PKG-INFO
+src/pdi_lab.egg-info/SOURCES.txt
+src/pdi_lab.egg-info/dependency_links.txt
+src/pdi_lab.egg-info/requires.txt
+src/pdi_lab.egg-info/top_level.txt
+tests/test_operacoes.py
