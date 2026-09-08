@@ -1,0 +1,8 @@
+width=160
+height=120
+channels=1
+type=uint8
+pixels=19200
+min=29
+max=255
+mean=80.8500

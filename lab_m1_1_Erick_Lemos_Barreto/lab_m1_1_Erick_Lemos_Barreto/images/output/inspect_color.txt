@@ -1,0 +1,14 @@
+width=160
+height=120
+channels=3
+type=uint8
+pixels=19200
+min_b=0
+max_b=255
+mean_b=86.5000
+min_g=0
+max_g=255
+mean_g=80.1250
+min_r=0
+max_r=255
+mean_r=80.1250
